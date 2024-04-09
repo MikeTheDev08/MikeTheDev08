@@ -12,14 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">🎖️Greetings, 👋, I'm TheAloneGeneral🎖️</h1>
+<h1 align="center">🎖️Greetings, soldier, I'm TheAloneGeneral🎖️</h1>
 <h3 align="center">I'm a battle-hardened coder, marching through the digital trenches, wielding my keyboard like a weapon. Whether it's Java, Node.js, or C, I've got my sights locked on the codebase. My mission? To conquer bugs, crush inefficiencies, and leave no memory leak behind.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thealonegeneral&color=lightgrey&style=for-the-badge&abbreviated=true" alt="Javascript" /> </p>
 
+## Contact me
+
+<p align="center"> <img src="https://img.shields.io/badge/Discord-%23F0FFFF?style=for-the-badge&logo=discord&logoColor=%23F0FFFF&label=thealonegeneral&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" alt="JavaScript logo"/> </p>
 
 ## Languages and Tools
 
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-%23F0FFFF?style=for-the-badge&logo=javascript&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" />
-<img src="https://img.shields.io/badge/Node.js-%23F0FFFF?style=for-the-badge&logo=node.js&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" alt="Node.js" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-%23F0FFFF?style=for-the-badge&logo=javascript&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" alt="JavaScript logo"/>
+  <img src="https://img.shields.io/badge/JSON-%23F0FFFF?style=for-the-badge&logo=json&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" alt="JSON logo"/>
+<img src="https://img.shields.io/badge/Node.js-%23F0FFFF?style=for-the-badge&logo=node.js&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" alt="Node.js logo" /> 
+  <img src="https://img.shields.io/badge/C-%23F0FFFF?style=for-the-badge&logo=c&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" alt="C logo" /> 
+<img src="https://img.shields.io/badge/MongoDB-%23F0FFFF?style=for-the-badge&logo=mongodb&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" alt="MongoDB logo"/> </p>
 
