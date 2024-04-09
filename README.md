@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">🎖️Greetings, 👋, I'm TheAloneGeneral🎖️</h1>
 <h3 align="center">I'm a battle-hardened coder, marching through the digital trenches, wielding my keyboard like a weapon. Whether it's Java, Node.js, or C, I've got my sights locked on the codebase. My mission? To conquer bugs, crush inefficiencies, and leave no memory leak behind.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thealonegeneral&label=Profile%20views&color=0e75b6&style=flat" alt="Javascript" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thealonegeneral&color=lightgrey&style=for-the-badge&abbreviated=true" alt="Javascript" /> </p>
 
 
 ## Languages and Tools
