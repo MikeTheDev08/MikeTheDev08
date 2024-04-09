@@ -12,24 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🎖️TheAloneGeneral
+<h1 align="center">🎖️Greetings, 👋, I'm TheAloneGeneral🎖️</h1>
+<h3 align="center">I'm a battle-hardened coder, marching through the digital trenches, wielding my keyboard like a weapon. Whether it's Java, Node.js, or C, I've got my sights locked on the codebase. My mission? To conquer bugs, crush inefficiencies, and leave no memory leak behind.</h3>
 
-## About Me
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thealonegeneral&label=Profile%20views&color=0e75b6&style=flat" alt="thealonegeneral" /> </p>
 
-I'm a battle-hardened coder, marching through the digital trenches, wielding my keyboard like a weapon. Whether it's Java, Node.js, or C, I've got my sights locked on the codebase. My mission? To conquer bugs, crush inefficiencies, and leave no memory leak behind.
 
 ## Languages and Tools
 
-- **Java**: My trusty sidearm for building robust applications.
-  - !Java
-- **Node.js**: My stealthy dagger for server-side sorcery.
-  - !Node.js
-- **C**: My battle axe for low-level combat.
-  - !C)
-- **MongoDB**: My secret intelligence vault for data storage.
-  - !MongoDB
-- **JSON**: My encrypted dispatch orders.
-  - !JSON
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-%23F0FFFF?style=for-the-badge&logo=javascript&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Node.js-%23F0FFFF?style=for-the-badge&logo=node.js&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F
+" /> </p>
 
 ## Deploy the Barricades!
 
